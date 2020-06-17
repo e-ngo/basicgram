@@ -1,4 +1,6 @@
 # Basicgram
+A working clone of Instagram, instantly cloneable and deployable.
+
 ## Development
 - Need local version of redis + mongo
 - Run redis-server and redis-cli from wherever your redis installation is
@@ -20,7 +22,6 @@ Build all images and push to dockerhub
 https://trello.com/invite/b/flu8jsKV/ed8a0fa697fde098ebd9183eb84b053b/basicgram  
 
 ## Architecture
-Just look at the 667_final_project_proposal.pdf  
+Basicgram uses a microservice artchitecture. Reference 667_final_project_proposal.pdf for more details.  
 
 ## Notes/Documentation
-idk if you guys put confusing shit in your code make sure to comment or note it here I guess.
